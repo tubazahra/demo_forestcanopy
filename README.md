@@ -1,2 +1,2 @@
 # demo_forestcanopy
-Contains forest data and analytics
+Contains forest data and analytics.
